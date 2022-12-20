@@ -5,9 +5,9 @@ This code is designed to control the temperature of a thermocycler using a motor
 ## Hardware Requirements
 
 -   Arduino board
--   Motor driver
--   Peltier module
--   Thermocouple
+-   Motor driver - BTS7960
+-   Peltier module - TEC12706
+-   Thermocouple - K TYPE
 
 ## Pin Configuration
 
